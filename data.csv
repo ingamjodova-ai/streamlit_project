@@ -1,0 +1,31 @@
+id,product,category,price,quantity,month,country
+1,Laptop,Electronics,1200,5,January,Germany
+2,Phone,Electronics,800,12,January,France
+3,Tablet,Electronics,650,7,February,Germany
+4,Camera,Electronics,550,4,March,Spain
+5,TV,Electronics,1400,3,April,Italy
+6,Headphones,Electronics,180,20,April,France
+7,Chair,Furniture,150,15,February,Germany
+8,Table,Furniture,320,8,March,France
+9,Sofa,Furniture,950,2,April,Italy
+10,Cabinet,Furniture,700,4,May,Spain
+11,Lamp,Furniture,90,25,May,Germany
+12,Bookshelf,Furniture,450,6,June,France
+13,T-Shirt,Clothing,40,50,January,Italy
+14,Jeans,Clothing,80,30,February,Germany
+15,Jacket,Clothing,180,10,March,France
+16,Sneakers,Clothing,220,14,April,Spain
+17,Hat,Clothing,35,40,May,Italy
+18,Backpack,Clothing,95,18,June,Germany
+19,Coffee Machine,Home,350,5,January,France
+20,Vacuum Cleaner,Home,480,6,February,Spain
+21,Microwave,Home,260,7,March,Italy
+22,Kettle,Home,60,22,April,Germany
+23,Blender,Home,110,13,May,France
+24,Air Fryer,Home,240,9,June,Spain
+25,Monitor,Electronics,420,8,May,Germany
+26,Keyboard,Electronics,70,35,June,France
+27,Mouse,Electronics,45,42,June,Italy
+28,Desk,Furniture,520,5,June,Germany
+29,Hoodie,Clothing,120,16,June,Spain
+30,Toaster,Home,55,20,June,France
